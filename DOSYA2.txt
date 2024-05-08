@@ -1,2 +1,2 @@
-DAL-B tarafından yazıldı/DOSYA2 - CONFLICT1
-DAL-B tarafından yazıldı/DOSYA2 - CONFLICT2
+DAL-A tarafından yazıldı/DOSYA2 - CONFLICT1
+DAL-A tarafından yazıldı/DOSYA2 - CONFLICT2
